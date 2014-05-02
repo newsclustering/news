@@ -1,0 +1,12 @@
+title: Microsoft releases Internet Explorer security update
+
+On Thursday afternoon, Microsoft announced that it released an update to address a security vulnerability affecting versions 6 through 11 of Internet Explorer for all users.
+
+Around 1 p.m. EDT, Microsoft made the security update available for all users, including customers with Windows XP. Microsoft no longer supports Windows XP and has been strongly encouraging customers to migrate to a newer operating system such as Windows 7 or 8.1.
+
+Adrienne Hall, general manager of Microsoft Trustworthy Computing, said in a statement that the company decided to fix the problem quickly for all customers, saying it takes the security of its products "incredibly seriously."
+
+The IE bug, as it was commonly referred to, allowed attackers to take complete control of a computer. Microsoft reported the problem Saturday, saying it was aware of "limited, targeted attacks" and that the vulnerability affected Internet Explorer versions 6 through 11.
+
+A division of the Department of Homeland Security also suggested downloading the workarounds recommended by Microsoft or using another browser until an update became available.
+The company said users with automatic updates enabled will not need to take any action. 

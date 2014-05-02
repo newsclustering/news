@@ -1,0 +1,35 @@
+title: African Bird Steals Food by Stacking Lies Upon Lies
+
+Fork-tailed drongos are among the most clever of liars in the animal kingdom, deceiving other animals in order to steal their food. The avian thieves have discovered a way to keep their targets in the dark. They do it by using lots of different kinds of lies. 
+
+Clever birds are a dime a dozen; last month, we wrote of crows who solved the "Aesop's fable task" by dropping stones into water. But this bird, native to wide swaths of Africa south of the Sahara, is special.
+
+The fork-tailed drongo (Dicrurus adsimilis) is a beautiful, shiny black-feathered bird with crimson red eyes. This sneaky birds steal food from others by making false alarm calls. Stolen food makes up nearly a quarter of their entire food intake, so it turns out to be a decent strategy.
+
+Above: Portrait of a fork-tailed drongo.
+
+Here's how it works: other animals, like southern pied babblers (Turdoides bicolor) and meerkats (Suricata suricatta), eavesdrop on the alarm calls of drongos. When a drongo notices a predator approaching, they give an alarm call, and the babblers and meerkats can avoid predation just like they do when they hear own species' alarm calls. In fact, babblers and meerkats have been seen acting a bit more relaxed when there are drongos around, focusing more on foraging and less on remaining vigilant, knowing that the drongo will help.
+
+The drongos take advantage. Sometimes, when a babbler or a meerkat finds a particularly tasty looking piece of food, a drongo lies by producing a false alarm call. When that happens, the meerkat drops the food and flees to find cover, leaving the drongo to steal the food, the meerkat none the wiser.
+
+The problem, in Aesop's famous story, is that the villagers eventually catch on to the boy who cried wolf, and learn to ignore his alarm calls. How does the drongo avoid the boy's mistake? 
+
+According to the most basic theories of animal communication, lies are only effective if the deception occurs relatively infrequently. A few lies in a field of truths is sustainable, but if deception becomes too frequent, then the target (the meerkat or babbler, in this case) will catch on. As with many aspects of the co-evolution of signalers and receivers in biology, the best analogy is an arms race. Each species must try to out-think the other in order to retain the upper hand.
+
+At present, the drongo is winning the arms race, because they've found a way to lie a bunch but not get caught. They do it by stacking lies upon other lies. Rather than just giving false alarm calls, they mimic the alarm calls of other species. It's a double lie! Of 51 different alarm calls recorded from drongos, six are specific to their own species, and 45 mimic the ones of other species.
+
+To understand more about how the drongo manages this feat, researchers Tom P. Flower, Matthew Gribble, and Amanda R. Ridley set out for the Africa's Kalahari Desert. The first thing they did was conduct a playback experiment on the pied babblers.
+
+The researchers found that the babblers were slower to resume foraging after abandoning their food when they heard a recording of a drongo mimicking their own species' alarm call than when they heard drongo-specific alarm calls. That explains why the drongos have learned to mimic rather than just producing their own false alarm calls
+
+In a second experiment, the researchers played a series of three alarm calls to the babblers. If the calls were all identical (all mimics or all drongo-specific), the babblers habituated. In other words, they began to realize that the caller was "crying wolf." But if there was some variation, the babblers were more likely to play it safe by seeking cover and abandoning their food. 
+
+Together, that provided Flower, Gribble, and Ridley with two different ideas for how the drongos managed to remain such successful thieves. Next, they went to see whether the drongos actually used those two strategies.
+
+And they did. The drongos were more likely to mimic the alarm calls of the species they were targeting than any of their other false alarm calls. Wild drongos also changed their call type around 75 percent of the time, especially after a failed attempt. And not only that, they wound up being more successful in snatching a decent meal after switching to a second call type, if the first try failed. It shows that not only are they able to deceive, but that they explicitly modulate their deception by paying attention to the responses of their targets.
+
+So the drongo really is the bird that cried wolf, but it remains successful by crying wolf in lots of different ways.
+
+Tactical deception such as this is traditionally thought of as an ability associated with cognitive sophistication and basic theory of mind, something not usually attributed to songbirds. While further research is needed to see just how sophisticated the fork-tailed drongo is, the thirty million years of evolution that separates fork-tailed drongos (Dicruridae) from the brainiest of birds, crows, ravens, and jays (Corvidae), underscores the fact that similar behaviors in different species are not necessarily the same, but can rely upon different evolved mechanisms according to each species' ecology. The corvids might have theory of mind, while a similar observable behavior may have evolved in drongos due to simpler associative learning. Or, it must be said, the opposite could be true. The only species for which we can say with complete certainty has theory of mind is our own.
+
+A mind does not develop in a vacuum, but in a very specific environment, with unique social and physical constraints. "Determining what different mechanisms enable the production of complex behavior and when these are selectively advantageous," writes Flower, "remain key questions in evolutionary biology."

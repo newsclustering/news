@@ -1,0 +1,47 @@
+title: African Bird Uses Sound Effects to Bamboozle Other Species
+
+You can't fool all of the species all of the time. Or can you? Biologists have found a bird in Africa that does an amazingly good job of fooling other species, time and time again, by varying the pattern of its impersonations.
+
+The fork-tailed drongo of the Kalahari Desert is a master of deception: It can mimic not only the distress calls of other bird species, but the alarms sounded by meerkats as well. Why does the drongo do it? The mimicry tricks the other species into abandoning their food, giving the drongo an opportunity to steal it. It's as if a dog could yell "Fire!" in a crowded restaurant and then feast on whatever the fleeing humans left behind.
+
+Listen to these audio examples:
+
+    Here's what a pied babbler sounds like when it spots a predator — in this case, a hawk. And here's what a drongo sounds like when it imitates a pied babbler in trouble.
+    Here's the distress call that a glossy starling makes when it sees a hawk. And here's what a drongo sounds like when it's imitating a glossy starling's distress call.
+    Here's how a meerkat sounds when it sees a martial eagle and raises the alarm. And here's the drongo's imitation of that meerkat alarm.
+
+Not bad, right? These are just some of the sounds that the University of Cape Town ornithologist Tom Flower collected over the course of 847 hours of observations in South Africa's Kuruman River Reserve, part of the Kalahari Desert.
+
+Flower trudged up to 10 miles (15 kilometers) a day, six days a week for six months out of every year since 2008 to study the drongo's wiles. "I dread to think how many sand dunes I've climbed, but it was worth it to get the data I needed," Flower said in a news release.
+
+How drongos do it
+
+For a research paper published this week in the journal Science, Flower and his colleagues tracked 688 attempts by 64 drongos to steal food from their neighbors of other species.
+
+Sometimes the birds would sound the interspecies alarm when there was an actual threat, but they'd also fake the alarm call if they saw that their target had a nice-looking meal in front of them. Collectively, the birds used six of their own drongo-specific alarm calls, plus another 45 calls that mimicked alarms used by other species.
+
+Why do the drongos bother with so much mimicry? Why not stick with just one kind of deception? The researchers hypothesized that mixing up the alarms keeps their marks from wising up to the scam. The data supported that hypothesis.
+
+"Drongos were more likely to change the type of false alarm call when their previous food-theft attempt failed," the researchers report. "Furthermore, when drongos changed their false-alarm type after a failed food-theft attempt, they were more likely to successfully steal food than when they made the same alarm call."
+
+Flower and his teammates were impressed by the depth of the drongos' craftiness — both the fact that the birds mixed honest and deceptive cross-species warnings, and the fact that they literally changed their tune if a tried-and-true trick no longer worked.
+
+Just how smart are they?
+
+Those strategies, known as tactical deception, "are considered evidence that species possess cognitive abilities, including mental state attribution, akin to theory of mind," the researchers wrote. However, Flower told NBC News he's doubtful that the drongos possess that high a level of cognition.
+
+"Instead, animals may produce such behavior using more simple mechanisms, such as associative learning," he said in an email. "The key thing is therefore to determine how animals produce these behaviors. Rather than sounding like a killjoy, I actually think it's amazing that animals such as drongos might accomplish such sophisticated behavior using simple mechanisms. This raises the question of exactly what evolutionary benefits humans additionally gain from complex abilities like theory of mind."
+
+Here's more from Flower, in an edited Q&A format:
+
+NBC News: Is it surprising that a bird can mimic a meerkat?
+
+Flower: "The master of mimicry is the lyrebird. Lots of parrots and mynahs mimic humans, so mammal mimicry isn't uncommon. The reason drongos are special is that we don't know why most species mimic vocalizations, while drongos use mimicry to improve their deception payoffs."
+
+Q: You say these cases represent key questions in evolutionary biology. Could you expand on that?
+
+A: "For a long time, evolutionary biologists puzzled over how communication could evolve and be stable, because signalers should lie to get as much as they can, while listeners/receivers should ignore liars. The outcome is that signals are honest on average, so it pays for the receiver to respond to them. This constrains deception, because just like in Aesop's Fable, 'The Boy Who Cried Wolf,' if you lie too often, animals ignore you. However, drongos evade this universal constraint on deception because when their target species learns to ignore one false alarm call type, drongos employ vocal mimicry to change the alarm call and thereby resume their food theft. They should be able to hold out for as long as their alarm repertoire lasts. The largest repertoire of any single drongo was 32 alarm calls, way more than they need to use in one day when following a group of animals."
+
+Q: How was it to spend hundreds of hours with thieving drongos? Did they try to fake you out? And by the way, what kind of food do they tend to steal?
+
+A: "Hard work! ... The drongos do go for humans. If they see me with worms, they shriek at me, too. My 2-year-old was feeding them worms one day, and one made an alarm and dived at her. She dropped the worm and dashed to me, so sure enough they'll steal from humans!"

@@ -1,0 +1,15 @@
+title: Microsoft buys cloud-computing vendor GreenButton
+
+Microsoft has purchased New Zealand-based cloud-computing vendor GreenButton for an undisclosed amount.
+
+Microsoft announced the purchase via an Azure Blog post on May 1. Microsoft is planning to integrate GreenButton's technology with the Azure platform, according to the post.
+
+Microsoft officials described GreenButton as "a leading provider of integrated on-demand solutions that allow customers to manage compute-intensive workloads in the cloud." GreenButton's technology helps users "cloud-enable" applications without having to recode existing software and don't require "a PhD in computer science," Microsoft's post claimed.
+
+GreenButton describes its mission as helping users "move your workloads to the cloud with our specialized PaaS" (platform as a service). GreenButton's flagship product is known as GreenButton Cloud Fabric. The company also sells a software development kit.
+
+Microsoft execs said that the existing GreenButton service will no longer be available to new customers, as of today. But the plan is to launch a new service integrated into Azure "later in the year," the post said.
+
+"With this acquisition, we are looking forward to democratizing the use Big Compute through the power of the cloud, so that organizations from all walks of life can use their data to transform their business and the world," concluded General Manager Mike Neil, the author of the blog post.
+
+ 

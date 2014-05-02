@@ -1,0 +1,25 @@
+title: Critical zero-day endangers all versions of Internet Explorer—and XP isn't getting a fix
+
+ Hackers have uncovered the first bug that could put Windows XP users at serious risk, after Microsoft ceased support for the aging operating system less than three weeks ago.
+
+On Saturday, Microsoft announced that Internet Explorer versions 6 through 11 were at risk for so-called drive-by attacks from malicious websites. Windows XP is capable of running Internet Explorer 6, 7, and 8.
+
+This new remote code execution vulnerability, dubbed CVE-2014-1776, has the potential to give hackers the same user rights as the current user. That means a successful attacker who infects a PC running as administrator would have a wide variety of attack open to them such as installing more malware on the system, creating new user accounts, and changing or deleting data stored on the target PC. Most Windows users run their PCs under an administrator account.
+
+These attacks aren't theoretical, either—security firm FireEye discovered these attacks being actively used in the wild. For these attacks to work, however, a user would have to visit a malicious website attempting to install the code. Microsoft says attacks could also come from "websites that accept or host user-provided content or advertisements" where an attacker could insert malicious code.
+
+Microsoft has yet to decide whether it will issue an emergency patch in the coming days or wait for patch Tuesday on May 13 to repair supported versions of IE. 
+
+ Whenever Microsoft issues the patch, a significant portion of Windows PC users won't be receiving the security update. Microsoft officially ended support for Microsoft XP on April 8, and the aging OS will no longer receive security updates as a result. So unless Microsoft does an about face, this appears to be the first post-support vulnerability where XP users are left to fend for themselves. Many more are sure to follow.
+
+At last count, Windows XP accounted for nearly 28 percent of all online PCs worldwide. That's more than Windows 8, 8.1, Vista, OS X 10.9, and Linux users combined, according to the latest numbers from Net MarketShare.
+
+Luckily, Windows XP users can easily mitigate this vulnerability by simply using any Web browser but Internet Explorer. For longtime IE users on XP, turning to Google Chrome or Mozilla Firefox would be your best bet, both immediately and going forward.
+
+Google has promised to support the XP version of Google Chrome until April 2015, while Mozilla has yet to announce a Firefox end-of-support date for XP. Should a vulnerability hit either of those browsers on XP it will be patched, unlike IE.
+
+For those who absolutely must use IE, Microsoft advises downloading and installing the Enhanced Mitigation Experience Toolkit (EMET) 4.1. This utility helps to protect against malware and is available for Windows XP PCs with service pack 3 installed.
+
+You can also run IE in a more secure mode by going to Internet Option s> Security and setting the slider to High.
+
+Microsoft's Saturday alert may be the first example of a serious exploit already in the wild that will put Windows XP users permanently at risk. It won't, however, be the last, security experts say. In March, security firm Avast said that Windows XP was already under attack six times more often than Windows 7—and that was before the OS went end-of-life. 

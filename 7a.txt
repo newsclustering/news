@@ -1,0 +1,57 @@
+title: Xbox Originals ups Microsoft's TV game. Will viewers play along?
+
+Last week, in an industrial-themed San Francisco loft full of sleek furniture, flat screens, and Xbox One consoles, Microsoft showed polished trailers for half a dozen original TV shows it plans to start airing in June. Some are green-lighted projects in production now, while others are still in development. In total, the company intends to serve up 12 original series to its Xbox audience.
+
+But the Halo live-action TV show produced by Steven Spielberg, and announced alongside the Xbox One last May, was nowhere to be seen. The project is well under way, Microsoft says, but it's not ready to be shown off. In its place is a slate of shows designed for mainstream audiences, the kind of programs you might expect to see alongside "The Big Bang Theory," "How I Met Your Mother," and "The Voice."
+
+That's no surprise, given who's running the show. Microsoft's TV ambitions are the purview of the 2-year old Xbox Originals division, which is headed by former CBS TV President Nancy Tellem.
+
+Working out of a Los Angeles-based studio -- with teams strewn across Santa Monica, Calif., Redmond, Wash., and Vancouver -- Tellem, who helped create "Friends" and "ER" and oversaw programming for "Survivor" and "CSI," is charged with leading the Xbox platform to the forefront of digital-first programming.
+
+What the forefront looks like, however, is unclear. Even with experienced leadership, a sizable war chest, and original content -- from notable comedy stars including Seth Green and Sarah Silverman and big directors like Spielberg and Ridley Scott -- Microsoft is wading into a crowded arena, with Netflix and Amazon already in the lead.
+
+And not helping these ambitions is the fact that the Xbox division is seen as a drag on Microsoft's bottom line, leading some Microsoft investors to advise the company to jettison the unit -- along with its consumer-hardware efforts involving the Surface tablet -- to focus on its enterprise business.
+
+The appointment of Satya Nadella as Microsoft's new CEO earlier this year hasn't illuminated much about any change in Microsoft's commitment to Xbox or how the device fits in to the company's "mobile-first, cloud-first" world. However, Nadella's decision to promote Phil Spencer -- the former head of the company's game-development venture, Microsoft Studios -- to run every facet of the Xbox division indicates that Microsoft sees games and Xbox as a lucrative way to bridge the gap between its many arms.
+
+Ultimately, the goal is to try to turn the Xbox platform into the delivery system, across all Microsoft's devices, for a new kind of digital-media venture that's about more than just games. Think of it as the natural extension of the company's bid for the living room, with the Xbox as its Trojan horse. What to do once you're past the wall and inside the city is a different breed of challenge. 
+
+"Microsoft has given us the opportunity to look at the next iteration of television and take media closer to the tech industry," Tellem said during a Q&A session last week. "As our content is distributed across Microsoft devices and services you can imagine our audience will broaden as well. With that in mind, we are first and foremost developing original content for the 85 million Xbox owners who are predominantly millennial males."
+
+Tellem does admit that there's some ambiguity surrounding Xbox Originals' direction. "We don't know," she said when describing the potential appeal of Microsoft's lineup of shows. "Knowing our audience, we'll know pretty soon once we put it up if they'll respond positively."
+
+Microsoft will soon be brushing up against Netflix, with the video-streaming site's Emmy-nominated "House of Cards" and "Orange is the New Black;" Amazon, with original shows like "Betas" and "Alpha House;" and Hulu, with "Battleground" and "Spoilers." AOL and Yahoo are entering the original content mix as well, having announced their plans earlier this week. Yahoo said it will deliver its first two comedy series in 2015. AOL is partnering with Nielsen for ratings -- a first for on-demand programming -- and creating 16 shows, featuring actors and producers like James Franco, Steve Buscemi, Sarah Jessica Parker, Zoe Saldana, and Ellen DeGeneres. 
+
+With 85 million consoles sold worldwide, between Xbox 360 and Xbox One, and 48 million of those consoles with an Xbox Live subscription, Microsoft has a good sense of its potential audience size. The company said its audience already watches TV on its consoles more than it plays games. Microsoft's Xbox One currently sits at No. 87 on the CNET 100 leaderboard.
+
+Microsoft is developing its own shows to go with those from other streaming services and traditional TV networks. As for delivery and pricing -- meaning which Xbox users get what content and for what cost -- the company is still working it out. Tellem has said the company will likely put some of its series behind the $60 per year Xbox Live Gold paywall and release other series more widely on a case-by-case basis. Xbox Live Gold is the subscription service that lets users access apps like Netflix and play video games online. At the very least, that will give 48 million people the potential to watch some of Microsoft's original programming.
+
+Even as it works to make the Xbox a broader consumer entertainment platform, Microsoft Entertainment Studios executives such as newly appointed Executive Vice President Jordan Levin (who Tellem poached from the TV industry) are steadfast in their defense of the gaming focus.
+
+"None of the activity we're pursuing is coming at the expense of any of the investment that's been made in the platform overall or gaming overall," Levin said at a press briefing last week for Xbox Originals, attended by gaming website Polygon.
+
+Still, while game titles like Gears of War and Fable are possible franchises for live-action TV series, none except Halo are yet in development.
+
+The meaningful analog to all of Microsoft's complex maneuvering is Amazon, which -- like Microsoft -- now runs both a television and video game development studio while delivering shows from competing streaming services on its own hardware. Amazon will do anything and everything it can to create value out of having a Prime membership alongside its Kindle tablets and Fire TV media-streaming box, even if that means starting up and then canceling two dozen TV shows.
+
+For Microsoft, it's not as clear-cut. Tellem and Levin won't say for sure what the long-term goal is, whether it's to increase the value of Xbox Live Gold or to pump up the Xbox One user base. That raises a couple of rather large questions: Is Microsoft trying to compete with the likes of Netflix and Amazon? And if not, do viewers need another 12 TV shows in their lives?
+
+"We have Netflix, Hulu, and Amazon on our platform, so it really is not a question that we're competing with them -- because frankly we're not," Tellem said when pressed about Microsoft's relationship with the very services that made its platform an entertainment center.
+
+So what does Microsoft have to offer that its rivals don't? Xbox Originals, Tellem said, is in the unique position to change the perspective of watching passively on your couch to an approach that blends its gaming DNA with the TV experience.
+
+"I think first of all if we can keep the content standpoint at a certain level, very high, and also add that interactive capability, I think that's a big differentiator," Tellem said. "They're offering linear content. We have the interactivity." Examples of interactivity will go beyond the real-time voting Microsoft allowed during the 2012 presidential debates to show-specific features built exclusively for the program. For example, Xbox One users with a cable subscription and a fantasy football team can put up their team info on the screen and manage it alongside live NFL games.
+
+Would Microsoft let other streaming services offering original programming develop interactive features for Xbox? "Sure," Tellem said. But the example she provided -- the partnership with the NFL announced last year -- didn't directly address whether Microsoft would let Netflix build custom interactive features for season two of "House of Cards," for instance. 
+
+The Xbox Originals interactive team consists of about 125 people based in Vancouver, Tellem said. "If there's any pitch that we have enough of a hint that we think there's something cool there that we want them [the interactive team] to hear, from inception they're in it," Levin added. "We don't pick anything up without running stuff past them."
+
+There is a snag in Microsoft's ambitions to make interactive features the main draw. That's the fact that the Xbox One install base has yet to break 5 million units. The interactive features are geared toward the $499 next-gen console, not the Xbox 360, which has been around since 2005. Microsoft shipped 800,000 Xbox 360 units in the first three months of 2014, and during Black Friday last year sold almost 1 million units in a single week, meaning that growth of the console's installed base is slowing down, but it's still the overwhelming majority for the Xbox platform.
+
+"The capabilities of Xbox One are really different than 360," Tellem said. "Whatever we produce will be on both platforms, but clearly, some of the things you' ll be able to do only on Xbox One, [but] certainly we hope we can achieve a similar experience." With nearly 80 million Xbox 360s out in the wild, and the Xbox 360 accounting for 43 million of the 48 million active Live accounts that will presumably determine your ability to watch Xbox original series, the reach of interactivity will remain severely limited for the foreseeable future.
+
+Still, 48 million viewers, regardless of what special features they're able to access, is nothing to scoff at, Tellem notes. "It will be only on Xbox or best on Xbox," Tellem said, quoting the internal motto outlining Xbox Originals' guiding principle. It translates to, "We will have everything you could ever want to watch."
+
+It remains to be seen whether Microsoft can make the Xbox the center for all entertainment -- and figure out the right business model, or how Halo and the live-action game series could really help Xbox Originals stand apart. For now, the company has thrown enough paint on the walls to guarantee that it's in this for the long haul.
+
+"We see this as a very long journey. We've learned that things don't happen overnight," Tellem said. "Hits happen in the most indirect and bizarre ways." 

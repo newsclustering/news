@@ -1,0 +1,21 @@
+title: Microsoft buys GreenButton, adding Hobbit power to the Azure cloud
+
+Microsoft is now tapping the power of The Lord of the Rings and putting it into the cloud.
+
+Today the tech giant announced the acquisition of GreenButton, a New Zealand-based provider of high-performance computing solutions. The company started in 2006 when chief executive Scott Houston, then chief technology officer on Peter Jackson’s Lord of Rings film trilogy, had to build a rendering farm to handle the massive processing needed for the third, Oscar-winning installment of the computer graphics-laden epic.
+
+“That’s where we really started out, with our heritage coming from the Lord of the Rings,” GreenButton chief technology officer Dave Fellows told VentureBeat from New Zealand. “However, we worked with many biotech companies right from the early days and have done substantial work in the oil and gas, engineering, and financial industries.”
+
+In its announcement on the MSDN Blogs, Microsoft executive Mike Neil noted that GreenButton can provide “integrated on-demand solutions that allow customers to manage compute-intensive workloads in the cloud” through Microsoft Azure. Houston told us the GreenButton capability can take “any bit-compute intensive project and make it possible to do it on the cloud.”
+
+Specific applications include digital animation, 3D seismic imaging data for oil and gas, DNA sequencing and drug designing, Monte Carlo simulations and risk analysis for the financial industry, and rendering final designs of complex 3D CAD models.
+
+Fellows told us that Microsoft “recently launched their high-performance computing infrastructure with Infiniband — a first from a major public cloud provider.”
+
+This, Fellows said, “allows us to address pretty large-scale [high-performance computing] workloads that others can’t.” But he added that GreenButton “won’t be looking to address massive supercomputing problems, as they still aren’t a good fit for the cloud.”
+
+Microsoft’s Neil noted in the blog post that GreenButton will “no longer be available to new customers.”
+
+Will there still be a service called GreenButton? “[That's] unknown at this stage,” Fellows said. “Microsoft likes the brand and it will stick around for at least the medium term, but we will see longer term.”
+
+The GreenButton team will be staying in New Zealand. Deal terms were not made public.

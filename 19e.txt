@@ -1,0 +1,17 @@
+title: Scientists Say The Time's Not Right To Eliminate The Smallpox Virus
+
+There's a conference coming up in which a decision is to be made on whether the last known remaining live strains of the smallpox virus should be destroyed. In anticipation of this, an international group of scientists are saying no, arguing that crucial scientific questions about the virus remain unanswered.
+
+The status of variola, the virus that causes smallpox, is to be considered at an upcoming meeting of the World Health Assembly (WHA), the governing body of the World Health Organization. The virus was eradicated in 1980, but biologists have been performing limited studies focusing on diagnostic, antiviral vaccine development under close direction and oversight. The work is being done in two high-security labs, one in the US and one in Russia.
+
+The fear, however, is that the virus could re-appear in the population, either by accident or deliberate release. The prospect of synthetic biology is another potential risk, where the virus could be reconstituted from its blueprints.
+
+But in spite of these risks, a group of scientists say it's premature to destroy the last remnants. Writing in PLoS Pathogens, here's what they have to say:
+
+    Despite significant advances, there is more work to be done before the international community can be confident that it possesses sufficient protection against any future smallpox threats. The current World Health Organization (WHO)-approved research agenda for smallpox has been tightly focused by the interpretation that research "essential for public health" equates solely to applied research related directly to the development of new antiviral drugs, safer vaccines, and better diagnostics. Despite considerable advances in this direction, we argue that the research agenda with live variola virus is not yet finished and that significant gaps still remain.
+
+    Variola virus is unique amongst the orthopoxviruses in that it is known to be a sole human pathogen. The viral and host factors responsible for this human-specific tropism remain essentially unknown to this day, although the current genomic information across orthopoxviruses makes hypothesis-driven experimental design using functional genomic approaches more feasible. Indeed, greater exploitation of current technologies may lead to additional therapeutic or diagnostic products to better respond to any future emergency situation resulting from a smallpox appearance.
+
+Later this month, the WHA will have to make a decision: destroy the remaining stocks of live variola virus or recommend continued research with live variola virus in the two WHO-certified sites.
+
+"This research remains vital, and we believe that the original goals of the WHO agenda for newer and safer vaccines, fully licensed antiviral drugs, and better diagnostics have still not been fully met," recommend the researchers. 

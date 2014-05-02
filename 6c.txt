@@ -1,0 +1,15 @@
+title: Security Flaw Hits Microsoft Browser
+
+In case those with personal computers running Windows XP still need a reason to replace or update their machines, Microsoft has just given them a great one with the disclosure of a nasty security hole in the company’s web browser, Internet Explorer.
+
+Microsoft issued a warning about the security hole in an advisory on Saturday, warning that attackers can exploit the flaw simply by persuading people to visit websites, where malicious code could be used to steal data from their computers. The company said it was aware of “limited, targeted attacks” that tried to exploit the flaw, though it did not provide more details about them.
+
+Although the security flaw affects various versions of Internet Explorer browsers running on newer computers with the Windows 7 and Windows 8 operating systems, the problem is especially troubling for the millions of people still using Windows XP. Because Microsoft ended technical support for Windows XP this month, the company will not issue any security updates for the operating system, including for the flaw disclosed on Saturday.
+
+The flaw was discovered by FireEye Research Labs, part of the security company FireEye Inc.
+
+Windows XP was first introduced by Microsoft more than 12 years ago. Computers running the software are comically outdated compared with later machines. That still does not change the fact, however, that more than a quarter of the computers connected to the Internet are still running Windows XP, according to NetMarketShare.
+
+Microsoft is working on a final software update to remedy the security hole in Internet Explorer on its modern operating systems. Internet Explorer versions 6 through 11, the latest, are affected. In the meantime, the company recommends several precautions, including making sure that Internet Explorer is configured to run in enhanced protected mode, to lessen the risks from the security flaw.
+
+One remedy for Windows XP users is to use an alternative Web browser such as Chrome or Firefox. The security hole should also get people thinking seriously about upgrading to a computer running a newer operating system.

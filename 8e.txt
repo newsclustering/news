@@ -1,0 +1,11 @@
+title: Microsoft Acquires High-Performance Cloud-Computing Company GreenButton
+
+Microsoft today announced that it has acquired GreenButton, a U.S.- and New Zealand-based high-performance cloud-computing company that has long had a close relationship with Microsoft’s Azure group.
+
+GreenButton allows industries that need large amounts of compute power (science, engineering, media, finance, etc.) to more easily use the cloud to run their compute-intensive workloads – no recoding required. To do this, the company has developed a number of integrations with existing software products that allow them to offload their compute-intensive workloads to the cloud. The service currently supports the likes of bioinformatics platform Geneious, Pixar’s RenderMan On Demand and NVIDIA’s mental ray out of the box. It also offers developers an SDK for integrating its services with their existing applications.
+
+The launched in Wellington, NZ, in 2006 as InterGrid. In 2011, the company signed an alliance agreement with Azure that meant Microsoft would help promote GreenButton’s technology on its Azure platform.
+
+While it does have this close relationship with Microsoft, its service also supports using HP’s Cloud Services, OpenStack, VMWare and Amazon Web Services.
+
+Going forward, Microsoft will no longer sell GreenButton’s services to new customers. Instead, it will launch a new service that integrates GreenButton’s technologies with Azure later this year. It’s unclear if the service will still support any competing platforms at that time.

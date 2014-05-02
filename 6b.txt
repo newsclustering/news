@@ -1,0 +1,11 @@
+title: Microsoft Releases Security Update for Explorer
+
+Microsoft is releasing a security update for Internet Explorer that closes a gap that allowed attackers to take complete control of a computer. It also issued the update to Windows XP users, despite dropping support for the older operating system last month.
+
+The update will go live at 10 a.m. Pacific time Thursday.
+
+Adrienne Hall, general manager of Microsoft Trustworthy Computing, said in a statement that the company decided to fix the problem quickly for all customers, saying it takes the security of its products "incredibly seriously."
+
+Microsoft reported the problem Saturday, saying it was aware of "limited, targeted attacks" and that the vulnerability affected Internet Explorer versions 6 through 11
+
+The company said users with automatic updates enabled don't need to take any action.
